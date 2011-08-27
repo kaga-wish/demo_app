@@ -1,0 +1,171 @@
+[1mdiff --git a/.redcar/lucene/_a.cfs b/.redcar/lucene/_a.cfs[m
+[1mdeleted file mode 100644[m
+[1mindex d378179..0000000[m
+Binary files a/.redcar/lucene/_a.cfs and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_a_2.del b/.redcar/lucene/_a_2.del[m
+[1mdeleted file mode 100644[m
+[1mindex 949bf18..0000000[m
+Binary files a/.redcar/lucene/_a_2.del and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_b.cfs b/.redcar/lucene/_b.cfs[m
+[1mdeleted file mode 100644[m
+[1mindex caebba9..0000000[m
+Binary files a/.redcar/lucene/_b.cfs and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_b_1.del b/.redcar/lucene/_b_1.del[m
+[1mdeleted file mode 100644[m
+[1mindex 1b473bd..0000000[m
+Binary files a/.redcar/lucene/_b_1.del and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_c.cfs b/.redcar/lucene/_c.cfs[m
+[1mdeleted file mode 100644[m
+[1mindex dd354e3..0000000[m
+Binary files a/.redcar/lucene/_c.cfs and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_c_1.del b/.redcar/lucene/_c_1.del[m
+[1mdeleted file mode 100644[m
+[1mindex 1b473bd..0000000[m
+Binary files a/.redcar/lucene/_c_1.del and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_d.cfs b/.redcar/lucene/_d.cfs[m
+[1mdeleted file mode 100644[m
+[1mindex 4a8428c..0000000[m
+Binary files a/.redcar/lucene/_d.cfs and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_d_1.del b/.redcar/lucene/_d_1.del[m
+[1mdeleted file mode 100644[m
+[1mindex 1b473bd..0000000[m
+Binary files a/.redcar/lucene/_d_1.del and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_e.cfs b/.redcar/lucene/_e.cfs[m
+[1mdeleted file mode 100644[m
+[1mindex 259b105..0000000[m
+Binary files a/.redcar/lucene/_e.cfs and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_e_1.del b/.redcar/lucene/_e_1.del[m
+[1mdeleted file mode 100644[m
+[1mindex 1b473bd..0000000[m
+Binary files a/.redcar/lucene/_e_1.del and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_f.cfs b/.redcar/lucene/_f.cfs[m
+[1mdeleted file mode 100644[m
+[1mindex 471a69e..0000000[m
+Binary files a/.redcar/lucene/_f.cfs and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_f_1.del b/.redcar/lucene/_f_1.del[m
+[1mdeleted file mode 100644[m
+[1mindex 1b473bd..0000000[m
+Binary files a/.redcar/lucene/_f_1.del and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_g.cfs b/.redcar/lucene/_g.cfs[m
+[1mdeleted file mode 100644[m
+[1mindex 36c22d4..0000000[m
+Binary files a/.redcar/lucene/_g.cfs and /dev/null differ
+[1mdiff --git a/.redcar/lucene/_h.cfs b/.redcar/lucene/_h.cfs[m
+[1mdeleted file mode 100644[m
+[1mindex e86cae1..0000000[m
+Binary files a/.redcar/lucene/_h.cfs and /dev/null differ
+[1mdiff --git a/.redcar/lucene/segments.gen b/.redcar/lucene/segments.gen[m
+[1mindex 930cb0c..9e18da8 100644[m
+Binary files a/.redcar/lucene/segments.gen and b/.redcar/lucene/segments.gen differ
+[1mdiff --git a/.redcar/lucene/segments_i b/.redcar/lucene/segments_i[m
+[1mdeleted file mode 100644[m
+[1mindex dc4c46d..0000000[m
+Binary files a/.redcar/lucene/segments_i and /dev/null differ
+[1mdiff --git a/.redcar/lucene_last_updated b/.redcar/lucene_last_updated[m
+[1mindex d75ff59..eb2efae 100644[m
+[1m--- a/.redcar/lucene_last_updated[m
+[1m+++ b/.redcar/lucene_last_updated[m
+[36m@@ -1 +1 @@[m
+[31m-1314463620[m
+[32m+[m[32m1314468992[m
+[1mdiff --git a/.redcar/tags b/.redcar/tags[m
+[1mindex 0d07d08..1532100 100644[m
+[1m--- a/.redcar/tags[m
+[1m+++ b/.redcar/tags[m
+[36m@@ -1,10 +1,17 @@[m
+[31m-1314463620[m
+[32m+[m[32m1314468992[m
+ Application	C:/test/demo_app/config/application.rb	  class Application [m
+ ApplicationController	C:/test/demo_app/app/controllers/application_controller.rb	class ApplicationController [m
+ ApplicationHelper	C:/test/demo_app/app/helpers/application_helper.rb	module ApplicationHelper[m
+ BrowsingTest	C:/test/demo_app/test/performance/browsing_test.rb	class BrowsingTest [m
+[32m+[m[32mCreateMicroposts	C:/test/demo_app/db/migrate/20110827181457_create_microposts.rb	class CreateMicroposts[m[41m [m
+ CreateUsers	C:/test/demo_app/db/migrate/20110827162333_create_users.rb	class CreateUsers [m
+ DemoApp	C:/test/demo_app/config/application.rb	module DemoApp[m
+[32m+[m[32mMicropost	C:/test/demo_app/app/models/micropost.rb	class Micropost[m[41m [m
+[32m+[m[32mMicropostTest	C:/test/demo_app/test/unit/micropost_test.rb	class MicropostTest[m[41m [m
+[32m+[m[32mMicropostsController	C:/test/demo_app/app/controllers/microposts_controller.rb	class MicropostsController[m[41m [m
+[32m+[m[32mMicropostsControllerTest	C:/test/demo_app/test/functional/microposts_controller_test.rb	class MicropostsControllerTest[m[41m [m
+[32m+[m[32mMicropostsHelper	C:/test/demo_app/app/helpers/microposts_helper.rb	module MicropostsHelper[m
+[32m+[m[32mMicropostsHelperTest	C:/test/demo_app/test/unit/helpers/microposts_helper_test.rb	class MicropostsHelperTest[m[41m [m
+ Str	C:/test/demo_app/public/javascripts/prototype.js	function Str(key, holder, stack)[m
+ TestCase	C:/test/demo_app/test/test_helper.rb	class ActiveSupport::TestCase[m
+ Type	C:/test/demo_app/public/javascripts/prototype.js	function Type(o)[m
+[36m@@ -37,6 +44,7 @@[m [mcollect	C:/test/demo_app/public/javascripts/prototype.js	function collect(iterat[m
+ compact	C:/test/demo_app/public/javascripts/prototype.js	function compact()[m
+ concat	C:/test/demo_app/public/javascripts/prototype.js	function concat()[m
+ copy	C:/test/demo_app/public/javascripts/prototype.js	function copy(methods, destination, onlyIfAbsent)[m
+[32m+[m[32mcreate	C:/test/demo_app/app/controllers/microposts_controller.rb	  def create[m
+ create	C:/test/demo_app/app/controllers/users_controller.rb	  def create[m
+ create	C:/test/demo_app/public/javascripts/prototype.js	function create()[m
+ cssNameFor	C:/test/demo_app/public/javascripts/prototype.js	function cssNameFor(key)[m
+[36m@@ -47,15 +55,18 @@[m [mdasherize	C:/test/demo_app/public/javascripts/prototype.js	function dasherize()[m
+ defer	C:/test/demo_app/public/javascripts/prototype.js	function defer()[m
+ define	C:/test/demo_app/public/javascripts/prototype.js	function define(D)[m
+ delay	C:/test/demo_app/public/javascripts/prototype.js	function delay(timeout)[m
+[32m+[m[32mdestroy	C:/test/demo_app/app/controllers/microposts_controller.rb	  def destroy[m
+ destroy	C:/test/demo_app/app/controllers/users_controller.rb	  def destroy[m
+ detect	C:/test/demo_app/public/javascripts/prototype.js	function detect(iterator, context)[m
+ dirCheck	C:/test/demo_app/public/javascripts/prototype.js	function dirCheck( dir, cur, doneName, checkSet, nodeCheck, isXML )[m
+ dirNodeCheck	C:/test/demo_app/public/javascripts/prototype.js	function dirNodeCheck( dir, cur, doneName, checkSet, nodeCheck, isXML )[m
+ dispatch	C:/test/demo_app/public/javascripts/effects.js	function dispatch(effect, eventName)[m
+ down	C:/test/demo_app/db/migrate/20110827162333_create_users.rb	  def self.down[m
+[32m+[m[32mdown	C:/test/demo_app/db/migrate/20110827181457_create_microposts.rb	  def self.down[m
+ each	C:/test/demo_app/public/javascripts/prototype.js	function each(iterator)[m
+ each	C:/test/demo_app/public/javascripts/prototype.js	function each(iterator, context)[m
+ eachSlice	C:/test/demo_app/public/javascripts/prototype.js	function eachSlice(number, iterator, context)[m
+[32m+[m[32medit	C:/test/demo_app/app/controllers/microposts_controller.rb	  def edit[m
+ edit	C:/test/demo_app/app/controllers/users_controller.rb	  def edit[m
+ element	C:/test/demo_app/public/javascripts/prototype.js	function element(event)[m
+ empty	C:/test/demo_app/public/javascripts/prototype.js	function empty()[m
+[36m@@ -92,6 +103,7 @@[m [minGroupsOf	C:/test/demo_app/public/javascripts/prototype.js	function inGroupsOf([m
+ include	C:/test/demo_app/public/javascripts/prototype.js	function include(object)[m
+ include	C:/test/demo_app/public/javascripts/prototype.js	function include(pattern)[m
+ include	C:/test/demo_app/public/javascripts/prototype.js	function include(value)[m
+[32m+[m[32mindex	C:/test/demo_app/app/controllers/microposts_controller.rb	  def index[m
+ index	C:/test/demo_app/app/controllers/users_controller.rb	  def index[m
+ index	C:/test/demo_app/public/javascripts/prototype.js	function index(value)[m
+ indexOf	C:/test/demo_app/public/javascripts/prototype.js	function indexOf(item, i)[m
+[36m@@ -137,6 +149,7 @@[m [mmerge	C:/test/demo_app/public/javascripts/prototype.js	function merge(array, arg[m
+ merge	C:/test/demo_app/public/javascripts/prototype.js	function merge(object)[m
+ methodize	C:/test/demo_app/public/javascripts/prototype.js	function methodize()[m
+ min	C:/test/demo_app/public/javascripts/prototype.js	function min(iterator, context)[m
+[32m+[m[32mnew	C:/test/demo_app/app/controllers/microposts_controller.rb	  def new[m
+ new	C:/test/demo_app/app/controllers/users_controller.rb	  def new[m
+ observe	C:/test/demo_app/public/javascripts/prototype.js	function observe(element, eventName, handler)[m
+ on	C:/test/demo_app/public/javascripts/prototype.js	function on(element, eventName, selector, callback)[m
+[36m@@ -159,6 +172,7 @@[m [mscan	C:/test/demo_app/public/javascripts/prototype.js	function scan(pattern, ite[m
+ select	C:/test/demo_app/public/javascripts/prototype.js	function select()[m
+ select	C:/test/demo_app/public/javascripts/prototype.js	function select(selector, scope)[m
+ set	C:/test/demo_app/public/javascripts/prototype.js	function set(key, value)[m
+[32m+[m[32mshow	C:/test/demo_app/app/controllers/microposts_controller.rb	  def show[m
+ show	C:/test/demo_app/app/controllers/users_controller.rb	  def show[m
+ size	C:/test/demo_app/public/javascripts/prototype.js	function size()[m
+ size	C:/test/demo_app/public/javascripts/prototype.js	function size()[m
+[36m@@ -200,6 +214,8 @@[m [munfilterJSON	C:/test/demo_app/public/javascripts/prototype.js	function unfilterJ[m
+ uniq	C:/test/demo_app/public/javascripts/prototype.js	function uniq(sorted)[m
+ unset	C:/test/demo_app/public/javascripts/prototype.js	function unset(key)[m
+ up	C:/test/demo_app/db/migrate/20110827162333_create_users.rb	  def self.up[m
+[32m+[m[32mup	C:/test/demo_app/db/migrate/20110827181457_create_microposts.rb	  def self.up[m
+[32m+[m[32mupdate	C:/test/demo_app/app/controllers/microposts_controller.rb	  def update[m
+ update	C:/test/demo_app/app/controllers/users_controller.rb	  def update[m
+ update	C:/test/demo_app/public/javascripts/prototype.js	function update(array, args)[m
+ update	C:/test/demo_app/public/javascripts/prototype.js	function update(element, content)[m
+[1mdiff --git a/app/controllers/users_controller.rb b/app/controllers/users_controller.rb[m
+[1mindex aafd63b..4e10818 100644[m
+[1m--- a/app/controllers/users_controller.rb[m
+[1m+++ b/app/controllers/users_controller.rb[m
+[36m@@ -3,11 +3,6 @@[m [mclass UsersController < ApplicationController[m
+   # GET /users.xml[m
+   def index[m
+     @users = User.all[m
+[31m-[m
+[31m-    respond_to do |format|[m
+[31m-      format.html # index.html.erb[m
+[31m-      format.xml  { render :xml => @users }[m
+[31m-    end[m
+   end[m
+ [m
+   # GET /users/1[m
+warning: LF will be replaced by CRLF in app/controllers/users_controller.rb.
+The file will have its original line endings in your working directory.
